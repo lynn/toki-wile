@@ -2,7 +2,7 @@
 
 toki wile is a conlang that combines the parts of Ithkuil I find interesting with the parts of Toki Pona I find cute and learnable. This document, for now, assumes familiarity with Toki Pona and maybe some familiarity with Ithkuil.
 
-I made this because I want to play with it, and find out what the interesting parts of Ithkuil feel like in a cute and learnable context. If you're interested, [**come chat with me on Discord**](https://discord.gg/bBcnEbxA9C).
+I made this because I want to play with it, and find out what the interesting parts of Ithkuil feel like in a cute and learnable context. Maybe it's a lot of fun! Maybe it doesn't work at all! If you're interested, [**join the toki wile Discord**](https://discord.gg/bBcnEbxA9C).
 
 Ithkuil is [©2004-2021 by John Quijada](http://ithkuil.net/). Toki Pona [was invented by Sonja Lang](http://tokipona.org/).
 
