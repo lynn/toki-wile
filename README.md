@@ -169,6 +169,7 @@ I've only listed the toki pona content words associated with the two stems.
 * When used as a root in a noun formative, these have the toki pona noun meaning.
 * When used as a root in a verb formative, these have the toki pona verb meaning.
 * When used as a suffixes, these have the meaning they have as toki pona modifiers in compounds.
+
 Indentation marks a super vague hierarchy that is so often flouted that you shouldn't think too much about it.
 
     -P- pona, pu
