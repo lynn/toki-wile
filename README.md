@@ -7,7 +7,7 @@ I made this because I want to play with it, and find out what the interesting pa
 Ithkuil is [©2004-2021 by John Quijada](http://ithkuil.net/). Toki Pona [was invented by Sonja Lang](http://tokipona.org/).
 
 ## Phonology
-It's like toki pona (aeiou ptksjnlmw), but with consonant clusters, geminated consonants, and adjacent vowels (`au` is pronounced /a.u/, not /aw/ or /au̯/). Stress is on the first syllable of each word.
+It's like toki pona (aeiou ptksjnlmw), but with consonant clusters, geminated consonants, diphthongs (`au ai eu ei ou oi`) and hiatus (all other vowel pairs found in the language). Stress is on the first syllable of each word.
 
 ## Words and sentences 
 There are two kinds of words: **pronouns** and **formatives**.
