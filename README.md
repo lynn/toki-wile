@@ -196,7 +196,7 @@ Indentation marks a super vague hierarchy that is so often flouted that you shou
             -SPJ- loje, jelo
             -SPW- laso, unu (purple)
         -SW- wile, alasa
-        -SJ- ilo, kulupu
+        -SJ- ijo, kulupu
     -J- (not a root, marks preverbs)
         -JL- suli, lili
         -JS- sike, leko
