@@ -197,6 +197,7 @@ Indentation marks a super vague hierarchy that is so often flouted that you shou
             -SPW- laso, unu (purple)
         -SW- wile, alasa
         -SJ- ijo, kulupu
+        -SS- jo, 
     -J- (not a root, marks preverbs)
         -JL- suli, lili
         -JS- sike, leko
@@ -207,6 +208,7 @@ Indentation marks a super vague hierarchy that is so often flouted that you shou
         -NN- mute, ale
         -NS- insa, selo
             -NSJ- sinpin, monsi
+        -NP- anpa, sewi
         -NT- ante, monsuta
         -NK- lawa, poka
         -NW- lon, weka
@@ -215,8 +217,9 @@ Indentation marks a super vague hierarchy that is so often flouted that you shou
         -LW- akesi, waso
         -LK- kasi, kili
         -LNSKW- kijetesantakalu, /
-        -LT- telo, kon
+        -LL- telo, kon
         -LN- luka, noka
+        -LT- oko, uta
     -M- ma, tomo
         -MW- tawa, kama
         -MJ- moku, pan
