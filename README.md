@@ -238,13 +238,13 @@ It's the fun part of Ithkuil! Here's a table.
    WAN:    -        ALE:  -     NRM:  - (l)   mu:   m
    TU:     t*       INSA: s     RPV:  j (t)   sina: s
    KULUPU: m        OPEN: k     N:    w (n)   ona:  n
-                    PINI: p
+                    PINI: p                   ni:   l
 
    * TU is "l" instead, if Extension is not -.
    * (l) is used if Conf+Ext is - or t.
    * (t) and (n) are used when Conf+Ext is -.
    * The "pronoun" endings can be used after "s k p l t n" as a shortcut. (But "-swm-" etc is disallowed.)
-     * On a noun, they express a genitive: "lele mu" --> "lelme"
+     * On a noun, they express a genitive: "lele mu" --> "lelme",  "twalo lu" --> "twallo"
      * On a verb, they express a subject: "ni pwusi" --> "pwusni"
 ```
 
