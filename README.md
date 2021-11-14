@@ -1,4 +1,4 @@
-# toki wile 0.0.2
+# toki wile 0.0.3
 
 toki wile is a conlang that combines the parts of Ithkuil I find interesting with the parts of Toki Pona I find cute and learnable. This document, for now, assumes familiarity with Toki Pona and maybe some familiarity with Ithkuil.
 
@@ -183,6 +183,7 @@ Indentation marks a super vague hierarchy that is so often flouted that you shou
         -TM- mani, esun
         -TT- tan, nasin
         -TW- tenpo, awen
+        -TS- open, pini
     -K- ike, jaki
         -KJ- pakala, utala
         -KK- moli,
@@ -232,16 +233,19 @@ Indentation marks a super vague hierarchy that is so often flouted that you shou
 It's the fun part of Ithkuil! Here's a table.
 
 ```
-   Configuration    Extension   Perspective
-   =============    =========   ===========
-   WAN:    -        ALE:  -     NRM:  - (l)
-   TU:     t*       INSA: s     RPV:  j (t)
-   KULUPU: m        OPEN: k     N:    w (n)
+   Configuration    Extension   Perspective   (Pronoun)
+   =============    =========   ===========   =========
+   WAN:    -        ALE:  -     NRM:  - (l)   mu:   m
+   TU:     t*       INSA: s     RPV:  j (t)   sina: s
+   KULUPU: m        OPEN: k     N:    w (n)   ona:  n
                     PINI: p
 
    * TU is "l" instead, if Extension is not -.
    * (l) is used if Conf+Ext is - or t.
    * (t) and (n) are used when Conf+Ext is -.
+   * The "pronoun" endings can be used after "s k p l t n" as a shortcut. (But "-swm-" etc is disallowed.)
+     * On a noun, they express a genitive: "lele mu" --> "lelme"
+     * On a verb, they express a subject: "ni pwusi" --> "pwusni"
 ```
 
 Here's an algorithm that also describes the values.
