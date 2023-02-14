@@ -78,7 +78,7 @@ The **Vs** slot selects a stem from the root, and marks whether this formative i
     -eu-  Stem 2, carrier noun. The next word is a name. (leule Kiti = "e soweli Kiti")
     -o-   Stem 1, verb.
     -u-   Stem 2, verb.
-    -i-   Pronoun: interpret Cr as a pronoun. This allows applying namako, Ca, suffixes... to pronouns. (omimje = taso-1pl-RPV-ACC)
+    -i-   Pronoun: interpret Cr as a pronoun. This allows applying namako, Ca, suffixes... to pronouns. (omitwe = taso-RPV-KLP-ACC)
 
 The **Ca** slot says some things about the "configuration" of the noun or of the event described by the verb. It is described in its own section below.
 
@@ -192,6 +192,9 @@ I've only listed the toki pona content words associated with the two stems.
 * When used as a root in a verb formative, these have the toki pona verb meaning.
 * When used as a suffixes, these have the meaning they have as toki pona modifiers in compounds.
 
+An entry like `-PL- olin, suwi` means: pla- is olin/noun, ple- is suwi/noun, plo- is olin/verb, plu- is suwi/verb.
+
+```
     -P- pona, epiku
     -PP- suli, lili
     -PK- pu, ku
@@ -254,6 +257,7 @@ I've only listed the toki pona content words associated with the two stems.
     -MT- sike, leko
     -MM- mama, /
     -Č- yupekosi, /
+```
 
 ## Ca
 It's the fun part of Ithkuil! Here's a table.
@@ -263,7 +267,7 @@ It's the fun part of Ithkuil! Here's a table.
    =========   ===========   =======   =============
    ALE:  Ø     NRM: l²       (see ¹)   WAN:    Ø
    INSA: s     RPV: t                  TU:     j
-   OPEN: k     N:   n                  KULUPU: w
+   OPEN: k     N:   n                  KLP:    w
    PINI: p
 
    ¹ A "pronoun infix" in Ca is allowed *only when Ext is Ø*.
@@ -290,6 +294,6 @@ It's the fun part of Ithkuil! Here's a table.
 ### Configuration
 * WAN describes "one thing" at a time: one bird, or many birds each in isolation.
 * TU describes a pair acting/occuring together, or many pairs each in isolation.
-* KULUPU describes a group acting/occuring together, or many groups each in isolation.
+* KLP (kulupu) describes a group acting/occuring together, or many groups each in isolation.
 
 The point here is that configuration is not pluralization. In Ithkuil terms, the distinction between Monadic and non-Monadic is unmarked. So, `lweli` means "a bird" or "birds (a bird here, a bird there)", while `lwelwi` means "a flock of birds" but also "flocks (a flock here, a flock there)". You can use suffixes -anj (one) or -ann (many) to be more explicit about number.
