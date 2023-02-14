@@ -78,7 +78,7 @@ The **Vs** slot selects a stem from the root, and marks whether this formative i
     -eu-  Stem 2, carrier noun. The next word is a name. (leule Kiti = "e soweli Kiti")
     -o-   Stem 1, verb.
     -u-   Stem 2, verb.
-    -i-   Pronoun: interpret Cr as a pronoun. This allows applying namako, Ca, suffixes... to pronouns. (omitwe = taso-RPV-KLP-ACC)
+    -i-   Pronoun: interpret Cr as a pronoun. This allows applying Vn, Ca, suffixes... to pronouns. (omitwe = taso-RPV-KLP-ACC)
 
 The **Ca** slot says some things about the "configuration" of the noun or of the event described by the verb. It is described in its own section below.
 
@@ -212,7 +212,7 @@ An entry like `-PL- olin, suwi` means: pla- is olin/noun, ple- is suwi/noun, plo
     -LW- akesi, waso
     -M- ma, tomo
     -MJ- moku, pan
-    -MK- misikeke, 
+    -MK- namako, misikeke
     -ML- mije, meli
     -MM- mama, /
     -MP- nena, lupa
@@ -246,7 +246,6 @@ An entry like `-PL- olin, suwi` means: pla- is olin/noun, ple- is suwi/noun, plo
     -SPW- laso, unu (purple)
     -SS- jo, lanpan
     -ST- (marks case accessor suffix)
-    -STJ- (marks inverse case accessor suffix)
     -SW- wile, alasa
     -T- toki, sitelen
     -TJ- pali, pana
