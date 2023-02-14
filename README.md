@@ -195,68 +195,68 @@ I've only listed the toki pona content words associated with the two stems.
 An entry like `-PL- olin, suwi` means: pla- is olin/noun, ple- is suwi/noun, plo- is olin/verb, plu- is suwi/verb.
 
 ```
-    -P- pona, epiku
-    -PP- suli, lili
-    -PK- pu, ku
-    -PL- olin, suwi
-    -PJ- sijelo, unpa
-    -PS- seli, lete
-    -PW- wawa, lape
-    -T- toki, sitelen
-    -TJ- pali, pana
-    -TL- ilo, kepeken(?)
-    -TM- mani, esun
-    -TT- tan, nasin
-    -TP- lipu, poki
-    -TW- tenpo, awen
-    -TS- open, pini
     -K- ike, jaki
     -KJ- pakala, utala
     -KK- moli, kipisi
     -KL- kute, kalama
-    -KW- kiwen, ko
     -KS- musi, nasa
+    -KW- kiwen, ko
+    -L- jan, soweli
+    -LJ- kala, pipi
+    -LK- kasi, kili
+    -LL- telo, kon
+    -LN- luka, noka
+    -LNSKW- kijetesantakalu, /
+    -LS- soko, /
+    -LT- oko, uta
+    -LW- akesi, waso
+    -M- ma, tomo
+    -MJ- moku, pan
+    -MK- misikeke, 
+    -ML- mije, meli
+    -MM- mama, /
+    -MP- nena, lupa
+    -MS- suno, mun
+    -MT- sike, leko
+    -MW- tawa, kama
+    -N- nanpa, nimi
+    -NJ- wan, tu
+    -NK- lawa, poka
+    -NL- linja, len
+    -NM- jasima, /
+    -NN- mute, ale
+    -NP- anpa, sewi
+    -NS- insa, selo
+    -NSJ- sinpin, monsi
+    -NT- ante, monsuta
+    -NW- lon, weka
+    -P- pona, epiku
+    -PJ- sijelo, unpa
+    -PK- pu, ku
+    -PL- olin, suwi
+    -PP- suli, lili
+    -PS- seli, lete
+    -PW- wawa, lape
     -S- pilin, sona
+    -SJ- ijo, kulupu
     -SK- lukin, kule
     -SM- sama, tonsi
     -SP- walo, pimeja
     -SPJ- loje, jelo
     -SPW- laso, unu (purple)
-    -SW- wile, alasa
-    -SJ- ijo, kulupu
     -SS- jo, lanpan
     -ST- (marks case accessor suffix)
     -STJ- (marks inverse case accessor suffix)
-    -N- nanpa, nimi
-    -NJ- wan, tu
-    -NL- linja, len
-    -NN- mute, ale
-    -NS- insa, selo
-    -NSJ- sinpin, monsi
-    -NP- anpa, sewi
-    -NT- ante, monsuta
-    -NTS- jasima, /
-    -NK- lawa, poka
-    -NW- lon, weka
-    -L- jan, soweli
-    -LJ- kala, pipi
-    -LW- akesi, waso
-    -LK- kasi, kili
-    -LKJ- soko, /
-    -LNSKW- kijetesantakalu, /
-    -LL- telo, kon
-    -LN- luka, noka
-    -LT- oko, uta
-    -M- ma, tomo
-    -MW- tawa, kama
-    -MJ- moku, pan
-    -MK- misikeke, 
-    -MP- nena, lupa
-    -ML- mije, meli
-    -MS- suno, mun
-    -MT- sike, leko
-    -MM- mama, /
-    -Č- yupekosi, /
+    -SW- wile, alasa
+    -T- toki, sitelen
+    -TJ- pali, pana
+    -TL- ilo, kepeken
+    -TM- mani, esun
+    -TP- lipu, poki
+    -TS- open, pini
+    -TT- tan, nasin
+    -TW- tenpo, awen
+    -XZ- yupekosi, /
 ```
 
 ## Ca
