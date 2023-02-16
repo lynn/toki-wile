@@ -271,7 +271,7 @@ It's the fun part of Ithkuil! Here's a table.
 
    ¹ A "pronoun infix" in Ca is allowed *only when Ext is Ø*.
        * On a noun, they express a genitive: lenmwe = "lenwe mu", twallo = "twalo lu"
-       * On a verb, they express a subject: pwusni = "ni pwusi"
+       * On a verb, they express a subject: pwutni = "ni pwuti"
    ² NRM -l- is omitted if preceded by non-null Ext or before pronoun "m".
      This is equivalent to applying the substitutions sl→s kl→k pl→p lm→m.
 ```
@@ -296,3 +296,18 @@ It's the fun part of Ithkuil! Here's a table.
 * KLP (kulupu) describes a group acting/occuring together, or many groups each in isolation.
 
 The point here is that configuration is not pluralization. In Ithkuil terms, the distinction between Monadic and non-Monadic is unmarked. So, `lweli` means "a bird" or "birds (a bird here, a bird there)", while `lwelwi` means "a flock of birds" but also "flocks (a flock here, a flock there)". You can use suffixes -anj (one) or -ann (many) to be more explicit about number.
+
+## Interjections
+
+When you say a word that consists of just one letter, it's an interjection.
+
+* a: "a!"
+* e: "what!? seriously?"
+* i: "same, me too, relatable, ikr, ikwym"
+* k: "psh, yeah right, ugh, ew, wtf!"
+* l: "yay! yum! how lovely!"
+* m: "umm..."
+* n: "I see, gotcha"
+* s: "don't worry, sure, no prob"
+* t: "lol, hahaha, nice, 💯"
+* u: "mu!"
