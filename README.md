@@ -276,7 +276,7 @@ It's the fun part of Ithkuil! Here's a table.
      This is equivalent to applying the substitutions sl→s kl→k pl→p lm→m.
 ```
 
-(The order these apply in to a root is: Configuration → Extension → Perspective. What that boils down to is that -stw- means "some part of a hypothetical group", not "a hypothetical group of middle parts".)
+(The order these apply in to a root is: Configuration → Extension → Perspective. What that boils down to is that -stw- means `root.w().s().t()` "hypothetical part of a group", not `root.s().t().w()` "a group of hypothetical middle parts".)
 
 ### Extension
 * ALE (Ø) describes a whole thing.
